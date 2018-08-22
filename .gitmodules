@@ -1,3 +1,6 @@
 [submodule "xresources"]
 	path = xresources
 	url = https://github.com/RougarouTheme/xresources
+[submodule "iterm"]
+	path = iterm
+	url = https://github.com/RougarouTheme/iterm
