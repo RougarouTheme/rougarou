@@ -4,3 +4,6 @@
 [submodule "iterm"]
 	path = iterm
 	url = https://github.com/RougarouTheme/iterm
+[submodule "ranger"]
+	path = ranger
+	url = https://github.com/RougarouTheme/ranger
