@@ -7,9 +7,9 @@
 [submodule "ranger"]
 	path = ranger
 	url = https://github.com/RougarouTheme/ranger
-[submodule "zsh"]
-	path = zsh
-	url = https://github.com/RougarouTheme/zsh
 [submodule "visual-studio-code"]
 	path = visual-studio-code
 	url = https://github.com/RougarouTheme/visual-studio-code
+[submodule "rougarou-zsh"]
+	path = rougarou-zsh
+	url = https://github.com/RougarouTheme/rougarou-zsh
