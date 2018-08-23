@@ -10,3 +10,6 @@
 [submodule "zsh"]
 	path = zsh
 	url = https://github.com/RougarouTheme/zsh
+[submodule "visual-studio-code"]
+	path = visual-studio-code
+	url = https://github.com/RougarouTheme/visual-studio-code
