@@ -1,6 +1,8 @@
 # rougarou
 Dark theme
 
+<p align="center"><img src ="https://user-images.githubusercontent.com/2269864/44552242-ad559480-a6f7-11e8-9a1a-d2b33afff8b9.png" width="200" /></p>
+
 ## Color Palette
 
 Palette            | Hex       | RGB           | 256-color
