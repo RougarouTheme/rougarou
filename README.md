@@ -25,6 +25,8 @@ cyan light `14`    | `#5fb5de` | `95 181 222`  | 74
 white dark `7`     | `#8c7676` | `140 118 118` | 102
 white light `15`   | `#dfdfdf` | `223 223 223` | 254
 
+## Additional
+Also look at [kraken](https://github.com/KrakenTheme/kraken) theme.
 
 ## Credits
 Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [flaticon](www.flaticon.com) 
