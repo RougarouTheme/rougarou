@@ -13,3 +13,6 @@
 [submodule "rougarou-zsh"]
 	path = rougarou-zsh
 	url = https://github.com/RougarouTheme/rougarou-zsh
+[submodule "konsole"]
+	path = konsole
+	url = https://github.com/RougarouTheme/konsole
