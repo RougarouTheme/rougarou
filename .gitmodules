@@ -16,3 +16,6 @@
 [submodule "konsole"]
 	path = konsole
 	url = https://github.com/RougarouTheme/konsole
+[submodule "termite"]
+	path = termite
+	url = https://github.com/RougarouTheme/termite
